@@ -11,5 +11,9 @@ The following models are used:
 - KNN
 - Decision Tree
 ## Findings
+
 ![Screenshot](image.png)
+
 The above figure shows that our target variable is imbalanced
+
+![Screenshot](image2.png)
