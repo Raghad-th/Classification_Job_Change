@@ -17,3 +17,5 @@ The following models are used:
 The above figure shows that our target variable is imbalanced
 
 ![Screenshot](image2.png)
+
+The above figure shows the confusion matrix of beasline model
